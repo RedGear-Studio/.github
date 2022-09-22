@@ -1,11 +1,11 @@
-# Stamina-Organization
+# RedGear Studio
 
-## Qu'est-ce que Stamina-Organization
-Stamina Organization est l'organisation s'occupant de la création, du développement et de la gestion de [Stamina-Client](https://github.com/Stamina-Organization/Stamina-Client) et de [Stamina-Server](https://github.com/Stamina-Organization/Stamina-Server)
+## Qu'est-ce que RedGear Studio ?
+RedGear est un studio de développement de solutions open source et de jeux vidéos. Actuellement en développement d'un système modulaire pour simplifier la création de jeux vidéos multijoueurs ([Partie Client](https://github.com/RedGear-Studio/RedGear-client) - [Partie Serveur](https://github.com/RedGear-Studio/RedGear-server) sur Godot 4, nous planifions de développer un [langage](https://github.com/RedGear-Studio/RedGear-L) pour permettre aux personnes d'apprendre plus facilement à programmer.
 
 ## Nous rejoindre
 
-Vous souhaitez nous aider dans notre projet ? Rejoignez-nous sur [Discord](https://discord.gg/Rd4cZazCx5) !
+Vous souhaitez nous aider dans notre projet ? Rejoignez-nous sur [Discord](https://discord.gg/zQfaTBAXg4) !
 Nous serons ravis de vous compter parmi les nôtres !
 
 ## Contribution au projet
