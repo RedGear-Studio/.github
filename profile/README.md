@@ -1,7 +1,7 @@
 # RedGear Studio
 
 ## Qu'est-ce que RedGear Studio ?
-RedGear est un studio de développement de solutions open source et de jeux vidéos. Actuellement en développement d'un système modulaire pour simplifier la création de jeux vidéos multijoueurs ([Partie Client](https://github.com/RedGear-Studio/RedGear-client) - [Partie Serveur](https://github.com/RedGear-Studio/RedGear-server) sur Godot 4, nous planifions de développer un [langage](https://github.com/RedGear-Studio/RedGear-L) pour permettre aux personnes d'apprendre plus facilement à programmer.
+RedGear est un studio de développement de solutions open source et de jeux vidéos. Actuellement en développement d'un système modulaire pour simplifier la création de jeux vidéos multijoueurs ([Partie Client](https://github.com/RedGear-Studio/RedGear-client) - [Partie Serveur](https://github.com/RedGear-Studio/RedGear-server)) sur Godot 4, nous planifions de développer un [langage](https://github.com/RedGear-Studio/RedGear-L) pour permettre aux personnes d'apprendre plus facilement à programmer.
 
 ## Nous rejoindre
 
