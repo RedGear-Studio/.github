@@ -15,6 +15,8 @@ You can learn more about each of our projects by visiting their respective pages
 
 Our [Discord server](https://discord.gg/zQfaTBAXg4/) is a place where contributors can discuss ideas and collaborate on the project. We appreciate any and all contributions, and we are excited to see what the community can come up with to help us improve our experimental language
 
+Before contributing, please take a look at our [code of conduct](https://github.com/RedGear-Studio/RedGear-TOS/blob/main/CODE_OF_CONDUCT.md) and [contribution guidelines](https://github.com/RedGear-Studio/RedGear-TOS/blob/main/CONTRIBUTING.md). These guidelines help ensure that everyone who contributes to our projects does so in a respectful and inclusive manner.
+
 ## Contact and follow us
 
 You can contact us or follow our activities through the following channels:
