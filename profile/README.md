@@ -1,21 +1,25 @@
 # RedGear Studio
 
-## Qu'est-ce que RedGear ?
+RedGear Studio is a community of passionate developers who create open source tools and applications for the community. We are committed to creating high-quality software and sharing our knowledge with others.
 
-RedGear est un groupe de personnes rassemblés autour d'une envie commune, faire une série de projets plutôt fou quitte à ne jamais les finir car ça apporte toujours une foule de connaissance en plus, les 2 derniers projets en date sont un langage de programmation (le repository arrive bientôt !) et un MMORPG (actuellement en pause à cause des problèmes de versions de Godot 4)
+## Our projects
 
-## Nous rejoindre
+Here are the current projects being developed at RedGear Studio:
 
-Vous souhaitez nous aider dans notre projet ? Rejoignez-nous sur [Discord](https://discord.gg/zQfaTBAXg4) !
-Nous serons ravis de vous compter parmi les nôtres !
+  - **[Reg-Lang](https://github.com/RedGear-Studio/Reg-Lang)**: A register-stack interpreter programming language with a simple syntax, statically typed, supporting OOP and ECS, and eventually supporting JIT.
+  - **Stamina**: A multiplayer/cooperative open world sandbox RPG that evolves based on the choices of the player(s) on the map.
 
-## Contribution au projet
+You can learn more about each of our projects by visiting their respective pages on GitHub.
 
-Vous pouvez facilement participer au projet. Vous pouvez nous aider de pleins de manières :
-- Optimisation du code
-- Signalement de bug
-- Amélioration de sécurité
-- Création d'assets
-- Idées de projets ou de features
-- Publicité
-Et j'en passe ! Toute contribution est la bienvenue ! Dans le cas où vous souhaitez participer, n'hésitez pas à ouvrir des pulls request ou des issues !
+## How to contribute
+
+Our [Discord server](https://discord.gg/zQfaTBAXg4/) is a place where contributors can discuss ideas and collaborate on the project. We appreciate any and all contributions, and we are excited to see what the community can come up with to help us improve our experimental language
+
+## Contact and follow us
+
+You can contact us or follow our activities through the following channels:
+
+  - Twitter: [@RedGearS](https://twitter.com/RedGearS)
+  - Website: [https://redgear.tk](https://redgear.tk/)
+  - Email: [Studio.RedGear@gmail.com](Studio.RedGear@gmail.com)
+  - Discord: [RedGear Studio](https://discord.gg/zQfaTBAXg4)
