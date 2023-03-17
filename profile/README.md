@@ -6,10 +6,10 @@ RedGear Studio is a community of passionate developers who create open source to
 
 Here are the current projects being developed at RedGear Studio:
 
-  - **[Reg-Lang](https://github.com/RedGear-Studio/Reg-Lang)**: A register-stack interpreter programming language with a simple syntax, statically typed, supporting OOP and ECS, and eventually supporting JIT.
-  - **Stamina**: A multiplayer/cooperative open world sandbox RPG that evolves based on the choices of the player(s) on the map.
+  - **[Reg-Lang](https://github.com/RedGear-Studio/Reg-Lang)**: A virtual machine (VM) for the Reg-Lang language, that can execute bytecode instructions. It has 64 registers, each capable of storing 64 bits of binary data, and can execute several opcodes. The ``v0.0.1 alpha`` is planned to be released in the summer holidays with the release of the compiler. For now, there's a compiler for our own Assembly but you can't really do something interesting with this assembly because there are no libs nor APIs.
+  - **Stamina**: Our upcoming game is a sandbox-style MORPG set in a unique mix of Steampunk and Cyberpunk world. In the game, players will need to survive each day while managing their cities and utilizing available resources and technologies. As a player, you will have the freedom to build, modify and update cities according to your needs and preferences. We're excited to bring this world to life and offer players an immersive gameplay experience in a richly detailed game world.
 
-You can learn more about each of our projects by visiting their respective pages on GitHub.
+You can learn more about each of our projects by visiting their respective pages on GitHub .
 
 ## How to contribute
 
