@@ -6,7 +6,7 @@ RedGear Studio is a community of passionate developers who create open source to
 
 Here are the current projects being developed at RedGear Studio:
 
-  - **[Reg-Lang](https://github.com/RedGear-Studio/Reg-Lang)**: The language is an efficient and reliable, statically typed, imperative programming language developed in Rust. It will eventually run on a custom-made virtual machine with a custom instruction set architecture but is currently running on a Tree-Walker Interpreter. The language aims to provide a simple but powerful programming language for general-purpose programming tasks.
+  - **[ASL](https://github.com/RedGear-Studio/ASL)**: The language is an efficient and reliable, statically typed, imperative programming language developed in Rust. It will eventually run on a custom-made virtual machine with a custom instruction set architecture but is currently running on a Tree-Walker Interpreter. The language aims to provide a simple but powerful programming language for general-purpose programming tasks.
   
   - **[Settlement-7274](https://github.com/RedGear-Studio/Settlement-7274)**: description to come...
 
