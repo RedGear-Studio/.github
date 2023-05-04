@@ -6,17 +6,17 @@ RedGear Studio is a community of passionate developers who create open source to
 
 Here are the current projects being developed at RedGear Studio:
 
-  - **[ASL](https://github.com/RedGear-Studio/ASL)**: The language is an efficient and reliable, statically typed, imperative programming language developed in Rust. It will eventually run on a custom-made virtual machine with a custom instruction set architecture but is currently running on a Tree-Walker Interpreter. The language aims to provide a simple but powerful programming language for general-purpose programming tasks.
+  - **[ASL](https://github.com/RedGear-Studio/ASL)**: ASL (A Simple Language) is an experimental programming language designed to be easy to learn and use, with a focus on simplicity and efficiency.
   
-  - **[Settlement-7274](https://github.com/RedGear-Studio/Settlement-7274)**: description to come...
-
 You can learn more about each of our projects by visiting their respective pages on GitHub .
 
 ## How to contribute
 
-Our [Discord server](https://discord.gg/zQfaTBAXg4/) is a place where contributors can discuss ideas and collaborate on the project. We appreciate any and all contributions, and we are excited to see what the community can come up with to help us improve our experimental language
+1. Join our [Discord server](https://discord.gg/zQfaTBAXg4/) to discuss ideas and collaborate on the project.
 
-Before contributing, please take a look at our [code of conduct](https://github.com/RedGear-Studio/RedGear-TOS/blob/main/CODE_OF_CONDUCT.md) and [contribution guidelines](https://github.com/RedGear-Studio/RedGear-TOS/blob/main/CONTRIBUTING.md). These guidelines help ensure that everyone who contributes to our projects does so in a respectful and inclusive manner.
+2. Take a look at our [code of conduct](https://github.com/RedGear-Studio/RedGear-TOS/blob/main/CODE_OF_CONDUCT.md) and [contribution guidelines](https://github.com/RedGear-Studio/RedGear-TOS/blob/main/CONTRIBUTING.md) before contributing. These guidelines help ensure that everyone who contributes to our projects does so in a respectful and inclusive manner.
+
+3. Check out our open issues on GitHub to see where we could use your help. If you have an idea for a new feature or improvement, feel free to open a new issue and start a discussion.
 
 ## Contact and follow us
 
