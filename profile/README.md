@@ -6,7 +6,7 @@ RedGear Studio is a community of passionate developers who create open source to
 
 Here are the current projects being developed at RedGear Studio:
 
-  - **[ASL](https://github.com/RedGear-Studio/ASL)**: ASL (A Simple Language) is an experimental programming language designed to be easy to learn and use, with a focus on simplicity and efficiency.
+  - **[ASL](https://github.com/RedGear-Studio/Atlas77)**: `Atlas77` is an experimental programming language designed to be easy to learn and use, with a focus on simplicity and efficiency.
   
 You can learn more about each of our projects by visiting their respective pages on GitHub .
 
